@@ -1,0 +1,115 @@
+<html>
+	<head>
+		
+		<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+		<META HTTP-EQUIV="Expires" CONTENT="-1">
+
+		<title>Test Page</title>
+		<link rel="stylesheet" href="styles.css">
+		<script type="text/javascript" src="jquery-2.0.3.js"></script>
+		<script type="text/javascript" src="connectfourmp.js"></script>
+		
+	</head>
+	
+	<div id="divStatus" style="display:none">
+		<p class="error" id="pError" style="display:none;"/>
+		<p id="pstatus"></p>
+	</div>
+	
+	<div id="divLogin" style="">
+		<input type="text" id="txtUsername" placeholder="Username" class="Field" />
+		<input type="password" id="txtPassword" placeholder="Password" class="Field" style="display:none" />
+		<span>
+			<input type="button" id="btnLogin" value="Login" />
+			<p id="pSpinner" class="Spinner" ></p>
+		</span>
+	</div>
+	
+	<div id="divLobby" style="display:none">
+		<ul class="nav">
+			<li id="Games">
+				<a href="javascript:void(0)">New Game</a>
+				<ul>
+					<li><a id="Connect_Four" href="javascript:void(0)">Connect 4</a></li>
+					<!--
+					<li><a href="#">Sub Menu Item</a></li>
+					<li><a href="#">Sub Menu Item</a></li>
+					-->
+				</ul>
+			</li>
+			<!--
+			<li>
+				<a href="#">Menu 2</a>
+				<ul>
+					<li><a href="#">Sub Menu Item</a></li>
+					<li><a href="#">Sub Menu Item</a></li>
+					<li><a href="#">Sub Menu Item</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Menu 3</a>
+				<ul>
+					<li><a href="#">Sub Menu Item</a></li>
+					<li><a href="#">Sub Menu Item</a></li>
+					<li><a href="#">Sub Menu Item</a></li>
+				</ul>
+			</li>
+			-->
+			<li>
+				<a href="javascript:void(0)"><span id="spUsername">Username</span></a>
+				<ul>
+					<li><a id="Logout" href="javascript:void(0)">Log out</a></li>
+				</ul>
+			</li>
+		</ul>	
+		<div id="divChat" style="margin-top:4em">
+			<textarea id="txtChatSystemOutput" readonly="readonly" rows="3" style="width:40%; font-style:italic; background-color:#eeeeee"></textarea>
+			<div >
+				<textarea id="txtChatOutput" readonly="readonly" rows="20" style="width:40%"></textarea>
+				<div style="display:inline-block; vertical-align:top;">
+					<span style="vertical-align:top;">Currently Online:</span>
+					<ul id="playerList" style="list-style:none; width:5%; margin-top:.5em">
+					</ul>
+				</div>
+			</div>
+			<div>
+				<input type="text" id="txtChatInput" placeholder="Enter a message..." style="width:40%"></input>
+				<input type="button" id="btnChatSend" value="Send" style="width:5%"></input>
+			</div>
+		</div>
+	</div>
+	
+	<div id="divDifficulty" style="display:none">
+		<span>
+			<input type="button" onclick="initGame()" value="New Game"/>
+			AI Difficulty:
+			<input type="radio" name ="ai" id="random" checked="true">Easy</input>
+			<input type="radio" name ="ai" id="ai1">Medium</input>
+			<input type="radio" name ="ai" id="ai2">Hard</input>
+		</span>
+	</div>
+	
+	<div id="divBoard" style="display:none">
+		<div id="data" ></div>
+		<div>
+			<p id="invalid">Invalid move.</p>
+		</div>
+		<canvas id="can" width="800" height="600"></canvas>
+		<div id="imagesDiv" style="display:none;">
+		
+		</div>
+	</div>
+	
+	<div id="overlay">
+		<div id="modal">
+			<p>.</p>
+		</div>
+	</div>
+
+	<head>
+	
+		<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+		<META HTTP-EQUIV="Expires" CONTENT="-1">
+	</head>
+
+</html>

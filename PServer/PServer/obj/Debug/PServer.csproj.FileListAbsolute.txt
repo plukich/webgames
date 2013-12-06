@@ -1,0 +1,37 @@
+C:\Users\Pete.lukich\AppData\Local\Temporary Projects\PServer\bin\Debug\PServer.exe.config
+C:\Users\Pete.lukich\Documents\Visual Studio 2013\Projects\PServer\PServer\bin\Debug\PServer.exe.config
+C:\Users\Pete.lukich\Documents\Visual Studio 2013\Projects\PServer\PServer\bin\Debug\PServer.exe
+C:\Users\Pete.lukich\Documents\Visual Studio 2013\Projects\PServer\PServer\bin\Debug\PServer.pdb
+C:\Users\Pete.lukich\Documents\Visual Studio 2013\Projects\PServer\PServer\bin\Debug\Fleck.dll
+C:\Users\Pete.lukich\Documents\Visual Studio 2013\Projects\PServer\PServer\obj\Debug\PServer.csprojResolveAssemblyReference.cache
+C:\Users\Pete.lukich\Documents\Visual Studio 2013\Projects\PServer\PServer\obj\Debug\PServer.exe
+C:\Users\Pete.lukich\Documents\Visual Studio 2013\Projects\PServer\PServer\obj\Debug\PServer.pdb
+C:\Users\Pete.lukich\Documents\Visual Studio 2013\Projects\PServer\PServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pete.lukich\Documents\Visual Studio 2013\Projects\PServer\PServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pete\Dropbox\PServer\PServer\bin\Debug\PServer.exe.config
+C:\Users\Pete\Dropbox\PServer\PServer\obj\Debug\PServer.exe
+C:\Users\Pete\Dropbox\PServer\PServer\obj\Debug\PServer.pdb
+C:\Users\Pete\Dropbox\PServer\PServer\bin\Debug\PServer.exe
+C:\Users\Pete\Dropbox\PServer\PServer\bin\Debug\PServer.pdb
+C:\Users\Pete\Dropbox\PServer\PServer\bin\Debug\Fleck.dll
+C:\Users\Pete\Dropbox\PServer\PServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pete\Dropbox\PServer\PServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pete\Dropbox\PServer\PServer\obj\Debug\PServer.csprojResolveAssemblyReference.cache
+C:\Users\Pete.lukich\Dropbox\PServer\PServer\bin\Debug\PServer.exe.config
+C:\Users\Pete.lukich\Dropbox\PServer\PServer\obj\Debug\PServer.exe
+C:\Users\Pete.lukich\Dropbox\PServer\PServer\obj\Debug\PServer.pdb
+C:\Users\Pete.lukich\Dropbox\PServer\PServer\bin\Debug\PServer.exe
+C:\Users\Pete.lukich\Dropbox\PServer\PServer\bin\Debug\PServer.pdb
+C:\Users\Pete.lukich\Dropbox\PServer\PServer\bin\Debug\Fleck.dll
+C:\Users\Pete.lukich\Dropbox\PServer\PServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pete.lukich\Dropbox\PServer\PServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pete.lukich\Dropbox\PServer\PServer\obj\Debug\PServer.csprojResolveAssemblyReference.cache
+C:\Users\Pete.lukich\Dropbox\DEV\DotNet\PServer\PServer\bin\Debug\PServer.exe.config
+C:\Users\Pete.lukich\Dropbox\DEV\DotNet\PServer\PServer\obj\Debug\PServer.exe
+C:\Users\Pete.lukich\Dropbox\DEV\DotNet\PServer\PServer\obj\Debug\PServer.pdb
+C:\Users\Pete.lukich\Dropbox\DEV\DotNet\PServer\PServer\obj\Debug\PServer.csprojResolveAssemblyReference.cache
+C:\Users\Pete.lukich\Dropbox\DEV\DotNet\PServer\PServer\bin\Debug\PServer.exe
+C:\Users\Pete.lukich\Dropbox\DEV\DotNet\PServer\PServer\bin\Debug\PServer.pdb
+C:\Users\Pete.lukich\Dropbox\DEV\DotNet\PServer\PServer\bin\Debug\Fleck.dll
+C:\Users\Pete.lukich\Dropbox\DEV\DotNet\PServer\PServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pete.lukich\Dropbox\DEV\DotNet\PServer\PServer\bin\Debug\Newtonsoft.Json.xml
